@@ -1,5 +1,5 @@
 {
-    "name": "vexura/keyhelp-api",
+    "name": "RawNetworks/keyhelp-api",
     "description": "A full-featured implementation of the KeyHelp API",
     "type": "library",
     "license": "GPL-3.0-or-later",
@@ -8,6 +8,11 @@
             "name": "Julien Michell Herwig",
             "email": "info@vexura.eu",
             "homepage": "https://vexura.eu"
+        },
+        {
+            "name": "Jan Hill",
+            "email": "privat@janhill.email",
+            "homepage": "https://www.server-verstehen.de"
         }
     ],
     "support": {
