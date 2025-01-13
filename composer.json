@@ -31,7 +31,8 @@
         "psr-4": {
             "KeyHelpAPI\\": "src/"
         }
-    }
+    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
+
