@@ -1,5 +1,5 @@
 {
-    "name": "RawNetworks/keyhelp-api",
+    "name": "rawnetworks/keyhelp-api",
     "description": "A full-featured implementation of the KeyHelp API",
     "type": "library",
     "license": "GPL-3.0-or-later",
@@ -35,4 +35,3 @@
     "minimum-stability": "dev",
     "prefer-stable": true
 }
-
